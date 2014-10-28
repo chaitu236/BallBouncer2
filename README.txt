@@ -1,6 +1,6 @@
 ﻿ABOUT THE GAME:
 
-This game was developed by Chaitanya Vadrevu from scratch. Source code 
+This game was developed by Chaitanya Vadrevu (i.e., chaitu236 i.e., me) from scratch. Source code 
 and images are original creations of the said developer. Images were 
 created using GIMP using only default textures and fonts which are 
 licensed under GNU GPL.
