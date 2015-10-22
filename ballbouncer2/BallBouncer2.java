@@ -72,6 +72,7 @@ public class BallBouncer2 extends JFrame implements Runnable, KeyListener, Mouse
     
     public BallBouncer2() {
         super("Ball Bouncer 2");
+        stopThread=true;
         this.setSize(INIT_WIDTH, INIT_HEIGHT);
         this.setResizable(false);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -81,7 +82,6 @@ public class BallBouncer2 extends JFrame implements Runnable, KeyListener, Mouse
         scores=new Scores();
 
         //init();
-        stopThread=true;
         initSound();    //to be removed if found unsuitable
     }
 
