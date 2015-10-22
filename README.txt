@@ -1,4 +1,10 @@
-﻿ABOUT THE GAME:
+﻿COMPILE:
+  make && make jar
+
+RUN:
+  make run
+
+ABOUT THE GAME:
 
 This game was developed by Chaitanya Vadrevu (i.e., chaitu236 i.e., me) from scratch. Source code 
 and images are original creations of the said developer. Images were 
